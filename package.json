@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "@types/node": "^20.14.2",
+    "next": "^14.2.3",
+    "nextra": "^2.13.4",
+    "nextra-theme-docs": "^2.13.4",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "typescript": "^5.4.5"
+  },
+  "name": "최강-with-lumentis",
+  "description": "민우가 엄마아빠에게 설명하는 LLMs, RAG, Embeddings",
+  "version": "0.0.1",
+  "scripts": {
+    "devstart": "next dev -p 5656 & node start.js",
+    "dev": "next dev -p 5656",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": [
+    "AI",
+    "RAG",
+    "Embeddings",
+    "LLM"
+  ]
+}
