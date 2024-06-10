@@ -1,0 +1,12 @@
+{
+  "index": "소개",
+  "what-is-llm": "LLM이란?",
+  "what-is-rag": "RAG(Retrieval Augmented Generation)란?",
+  "role-of-embeddings": "임베딩(Embedding)의 역할",
+  "pros-and-cons-of-llm": "LLM의 장단점",
+  "llm-use-cases": "LLM 응용 사례",
+  "llm-training-deployment-challenges": "LLM 훈련 및 배포 과제",
+  "context-window": "컨텍스트 윈도우(Context Window)",
+  "meaning-of-embedding-and-reg": "'임베딩'과 'reg'의 의미",
+  "conclusion": "결론"
+}
